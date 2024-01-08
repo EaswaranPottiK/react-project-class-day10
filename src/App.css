@@ -3,6 +3,10 @@
  margin: 0; 
 }
 
+body{
+  min-height: 100vh;
+}
+
 .box{
   display: flex;
   flex-direction: column;
